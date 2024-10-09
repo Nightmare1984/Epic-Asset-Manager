@@ -4,3 +4,4 @@ pub mod logged_in;
 pub mod preferences;
 pub mod progress_icon;
 pub mod sid_login;
+pub mod plugin_compiler;
